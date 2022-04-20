@@ -1,0 +1,20 @@
+
+public class programa {
+	
+		public static void main(String[] args) {
+			
+			String matricula = "12345";
+			String nome = "Joaozinho";
+			Double nota1 = 4.5;
+			Double nota2 = 9.1;
+			
+			Double notaFinal = (nota1 + nota2) / 2; 
+			
+			if(notaFinal >= 7) 
+				{
+				System.out.println("Aprovado: Sim(x) Não()");
+				}
+			
+			
+		}
+}

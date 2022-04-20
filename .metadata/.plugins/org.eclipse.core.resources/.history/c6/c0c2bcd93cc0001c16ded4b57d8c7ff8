@@ -1,0 +1,29 @@
+import java.io.File;
+
+public class programa {
+	
+	public static void main(String[] args) {
+		
+		File arquivo = new File("C:\\Users\\11070083950\\Desktop\\EXFIX\\EX5\\src\\grupos-tabulados.txt");
+		Scanner leitor = new Scanner(arquivo):
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,32 @@
+
+public class programa {
+	
+	public static void main(String[] args) {
+		
+		
+		String[] m = new String[5];
+		String[] n = new String[5];
+		Double[] n1 = new Double[5];
+		Double[] n2 = new Double[5];
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+}

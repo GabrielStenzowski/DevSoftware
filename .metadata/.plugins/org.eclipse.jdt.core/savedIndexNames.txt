@@ -1,0 +1,8 @@
+INDEX VERSION 1.131+C:\Users\11070083950\Desktop\EXFIX\.metadata\.plugins\org.eclipse.jdt.core
+2232943556.index
+1796629224.index
+1865797976.index
+461149799.index
+4062131026.index
+1820042993.index
+4117952331.index

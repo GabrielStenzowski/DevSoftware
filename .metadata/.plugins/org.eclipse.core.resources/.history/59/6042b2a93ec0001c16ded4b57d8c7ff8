@@ -1,0 +1,57 @@
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Scanner;
+
+public class programa {
+	
+	public static void main(String[] args) throws FileNotFoundException {
+		
+		File arquivo = new File("C:\\Users\\11070083950\\Desktop\\EXFIX\\EX5\\src\\grupos-tabulados.txt");
+		Scanner leitor = new Scanner (arquivo);
+		leitor.nextLine();
+		
+		
+		int ga = 0;
+		int gb = 0;
+		int gc = 0;
+		int gd = 0;
+		int ge = 0;
+		int gf = 0;
+		
+		
+		while (leitor.hasNext()) {
+			String l = leitor.nextLine();
+			String[] dl = l.split("\t");
+
+			switch (dl[0]) {
+			case "A":
+				ga += 
+				
+				break;
+
+			}
+				
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+	
+	public static int getValor(String vlr) 
+	{
+		return.Interger.parseint(vlr);
+	}
+}
+
+
