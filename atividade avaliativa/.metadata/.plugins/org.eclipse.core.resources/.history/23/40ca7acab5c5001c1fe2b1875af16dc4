@@ -1,0 +1,17 @@
+
+public class programa {
+	public static void main(String[] args) {
+		
+		Scanner leitor = getLeitor();
+		if (leitor = null) 
+		{
+			System.out.println("Nao é possivel executar!!!!");
+		}
+		else
+		{
+			Grupo[] grupos = carregardados(leitor);
+			
+		}
+			
+	}
+}

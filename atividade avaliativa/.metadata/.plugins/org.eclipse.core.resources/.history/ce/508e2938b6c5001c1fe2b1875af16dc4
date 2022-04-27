@@ -1,0 +1,27 @@
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.Formatter;
+import java.util.Scanner;
+
+
+
+
+public class programa {
+	public static void main(String[] args) {
+		
+		Scanner leitor = getLeitor();
+		if (leitor = null) 
+		{
+			System.out.println("Nao é possivel executar!!!!");
+		}
+		else
+		{
+			Grupo[] grupos = carregardados(leitor);
+			
+			gravarRelatorio(grupos);
+		}
+		
+		System.out.println("Deu bom demais!!!!");
+	}
+}
+

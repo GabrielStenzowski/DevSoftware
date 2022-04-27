@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\Aluno\Desktop\atividade avaliativa\.metadata\.plugins\org.eclipse.jdt.core
+3410637881.index
+4194271827.index
+1865797976.index
